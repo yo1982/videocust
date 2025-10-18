@@ -1,0 +1,8 @@
+{
+  "name": "AI Video Customer Support",
+  "description": "A real-time video chat application connecting customers with an AI-powered customer service agent using the Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
